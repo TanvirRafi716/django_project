@@ -83,7 +83,7 @@ We welcome contributions to improve this project! To contribute:
 ## Team Members
 - **[Member 1]**: Role - Description
 - **[Member 2]**: Md.Tanvir Hasan Rafi
-- **[Member 3]**: Role - Description
+- **[Member 3]**: Maruf Khan
 - **[Member 4]**: Role - Description
 
 
